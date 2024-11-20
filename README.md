@@ -3,6 +3,14 @@
 
 This a is a clone of Gemini Ai. The frontend is done using React along with the Gemini Api.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Preview](#preview)
+- [Features](#features)
+  - [Core Features](#core-features)
+  - [Future Scope](#future-scope)
+-[Deployment](#deployment)
 
 ## Preview
 
