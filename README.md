@@ -10,7 +10,7 @@ This a is a clone of Gemini Ai. The frontend is done using React along with the 
 - [Features](#features)
   - [Core Features](#core-features)
   - [Future Scope](#future-scope)
--[Deployment](#deployment)
+- [Deployment](#deployment)
 
 ## Preview
 
