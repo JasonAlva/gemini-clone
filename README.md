@@ -12,6 +12,10 @@ This a is a clone of Gemini Ai. The frontend is done using React along with the 
   - [Future Scope](#future-scope)
 - [Deployment](#deployment)
 
+## Introduction
+
+This is a near replica of the Gemini Ai. React and CSS is used to make most of the frontend and Integrated with Gemini Api. 
+
 ## Preview
 
 ![App](images/home.png)
